@@ -1,4 +1,44 @@
-# Getting Started with Create React App
+# Quickstart with React JS and MapLibre GL JS
+
+Quick way to star a web map application with MapLibre GL JS using Create React App.
+
+A simple fullscreen map application as an example on how to use MapTiler maps together with React and MapLibre GL JS for your own React app.
+
+## Getting Started
+
+1. Clone this repo 
+ 
+  ```sh
+    git clone https://github.com/maptiler/quickstart-react-maplibre-gl-js.git my-react-map
+  ```
+
+2. Navigate to the newly created project folder **my-react-map**
+  ```sh
+    cd my-react-map
+  ```
+
+3. Install dependencies
+  ```sh
+    npm install
+  ```
+
+4. :warning: Open the App.js file and replace **YOUR_MAPTILER_API_KEY_HERE** with your actual [MapTiler API key](https://cloud.maptiler.com/account/keys/).
+
+  :information_source: If you don't have an API KEY you can create it for **FREE** at https://www.maptiler.com/cloud/
+
+5. Start your local environment
+  ```sh
+    npm start
+  ```
+
+6. You will find your app on address http://localhost:3000/. Now you should see the map in your browser.
+
+## Build With
+
+* [React.js](https://reactjs.org/)
+* [MapLibre GL JS](https://maplibre.org/)
+* [MapTiler](https://www.maptiler.com/)
+* [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started/get-started#using-with-a-mapbox-gl-fork)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -41,30 +81,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can learn more at [How to display MapLibre GL JS map using React JS](https://documentation.maptiler.com/hc/en-us/articles/4405444890897-How-to-display-MapLibre-GL-JS-map-using-React-JS).
