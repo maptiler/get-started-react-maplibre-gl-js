@@ -1,15 +1,13 @@
-# Quickstart with React JS and MapLibre GL JS
+# Get started with React JS and MapLibre GL JS
 
 Quick way to star a web map application with MapLibre GL JS using Create React App.
 
 A simple fullscreen map application as an example on how to use MapTiler maps together with React and MapLibre GL JS for your own React app.
 
-## Getting Started
-
 1. Clone this repo 
  
   ```sh
-    git clone https://github.com/maptiler/quickstart-react-maplibre-gl-js.git my-react-map
+    git clone https://github.com/maptiler/get-started-react-maplibre-gl-js.git my-react-map
   ```
 
 2. Navigate to the newly created project folder **my-react-map**
