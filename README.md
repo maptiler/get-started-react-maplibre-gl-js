@@ -1,5 +1,7 @@
 # Get started with React JS and MapLibre GL JS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Quick way to star a web map application with MapLibre GL JS using Create React App.
 
 A simple fullscreen map application as an example on how to use MapTiler maps together with React and MapLibre GL JS for your own React app.
@@ -42,4 +44,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Learn More
 
-You can learn more at [How to display MapLibre GL JS map using React JS](https://docs.maptiler.com/react/maplibre-gl-js/how-to-use-maplibre-gl-js/).
+You can learn more at [How to display MapLibre GL JS map using React JS](https://docs.maptiler.com/react/maplibre-gl-js/how-to-use-maplibre-gl-js/?utm_medium=referral&utm_source=github&utm_campaign=2022-05%20%7C%20js%20frameworks%20%7C%20react).
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
