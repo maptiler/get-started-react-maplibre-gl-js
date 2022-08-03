@@ -42,4 +42,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Learn More
 
-You can learn more at [How to display MapLibre GL JS map using React JS](https://documentation.maptiler.com/hc/en-us/articles/4405444890897-How-to-display-MapLibre-GL-JS-map-using-React-JS).
+You can learn more at [How to display MapLibre GL JS map using React JS](https://docs.maptiler.com/react/maplibre-gl-js/how-to-use-maplibre-gl-js/).
