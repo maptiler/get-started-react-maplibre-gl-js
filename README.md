@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Quick way to star a web map application with MapLibre GL JS using Create React App.
+Quick way to start a web map application with MapLibre GL JS using Create React App.
 
 A simple fullscreen map application as an example on how to use MapTiler maps together with React and MapLibre GL JS for your own React app.
 
