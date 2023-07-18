@@ -38,7 +38,7 @@ A simple fullscreen map application as an example on how to use MapTiler maps to
 * [React.js](https://reactjs.org/)
 * [MapLibre GL JS](https://maplibre.org/)
 * [MapTiler](https://www.maptiler.com/)
-* [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started/get-started#using-with-a-mapbox-gl-fork)
+* [react-map-gl](https://visgl.github.io/react-map-gl/docs/get-started)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
