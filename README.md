@@ -45,21 +45,27 @@ git clone https://github.com/maptiler/get-started-react-maplibre-gl-js.git my-re
 ## 🚀 Basic Usage
 
 1. Navigate to the newly created project folder **my-react-map**
+
    ```shell
    cd my-react-map
    ```
+
 1. Install dependencies
+
    ```shell
    npm install
    ```
+
 1. :warning: Open the App.js file and replace **YOUR_MAPTILER_API_KEY_HERE** with your actual [MapTiler API key](https://cloud.maptiler.com/account/keys/).
 
    :information_source: If you don't have an API KEY you can create it for **FREE** at https://www.maptiler.com/cloud/
 
 1. Start your local environment
+
    ```shell
    npm start
    ```
+
 1. You will find your app on address http://localhost:3000/. Now you should see the map in your browser.
 
 <br>
